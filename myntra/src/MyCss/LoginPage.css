@@ -1,0 +1,63 @@
+body {
+    background-color: #f3f3f3; /* Change this to your desired background color */
+}
+
+/* Customizing button color */
+.custom-primary {
+    background-color: deeppink; /* Change to the desired color */
+    border-color: deeppink; /* Change to the desired border color */
+    color: #fff; /* Text color for the button */
+    /* border:50px; */
+   /*  padding:20px; */
+   margin:5px;
+}
+
+/* Hover effect for the custom button */
+.custom-primary:hover {
+    background-color:hotpink; /* Change to the desired hover color */
+    border-color: hotpink; /* Change to the desired hover border color */
+    color: #fff; /* Text color on hover */
+}
+    
+
+/* Custom CSS styling */
+.login-container {
+    width: 300px;
+    margin: auto;
+    margin-top: 100px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+    .login-container h2 {
+        font-size: 24px; /* Reduce the font size of the heading */
+        margin-bottom: 20px; /* Add some space below the heading */
+    }
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+.form-control {
+    width: 100%;
+}
+
+.login-btn {
+    width: 100%;
+}
+
+h6 {
+    font-size: 12px; /* Decrease the font size of h6 tag */
+    margin: 8px 0; /* Adjust margin for spacing */
+}
+
+.custom-color {
+    color: deeppink; /* Change this to your desired color */
+}
