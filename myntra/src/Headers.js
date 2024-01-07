@@ -11,7 +11,7 @@ export default function Headers() {
         <>
             <nav className="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
                 <div className="container-fluid">
-                    <a className="navbar-brand" >Eshop_Myntrajbjb</a>
+                    <a className="navbar-brand" >Eshop_Myntra</a>
                     <a className="navbar-brand" >
                         <img src=" https://1000logos.net/wp-content/uploads/2022/08/Myntra-Logo.png" alt="Myntra Logo" height="50" width="auto" />
                     </a>
